@@ -1,11 +1,9 @@
-package com.meena.interview_kickstart.repository.interview;
+package com.meena.interview_kickstart.model.interview;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.MappedSuperclass;
 import javax.persistence.SequenceGenerator;
-import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
 

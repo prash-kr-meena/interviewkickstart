@@ -1,6 +1,6 @@
-package com.meena.interview_kickstart.repository.interview;
+package com.meena.interview_kickstart.model.interview;
 
-import static com.meena.interview_kickstart.repository.enumeration.InterviewRound.ROUND_5;
+import static com.meena.interview_kickstart.model.enumeration.InterviewRound.ROUND_5;
 
 
 public class CulturalFitInterview extends Interview {

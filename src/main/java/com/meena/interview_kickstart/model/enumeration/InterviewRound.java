@@ -1,7 +1,6 @@
-package com.meena.interview_kickstart.repository.enumeration;
+package com.meena.interview_kickstart.model.enumeration;
 
 import lombok.Getter;
-import lombok.Setter;
 
 public enum InterviewRound {
   ROUND_1(1),

@@ -15,10 +15,14 @@
 
 ### Spring JPA & Hibrenate
 
+* [Spring Data JPA: What is it? And Why Should You Use It?](https://www.youtube.com/watch?v=x67yiTHxn00&ab_channel=ThorbenJanssen)
+* [Hibernate vs JDBC | Which one is Better? | Easy Explanation from Karpado.com](https://www.youtube.com/watch?v=RoEELoKdqnk&ab_channel=KarpadoOfficial)
 * [Hibernate Tutorial | Full Course - Teluscko Learning](https://www.youtube.com/watch?v=JR7-EdxDSf0&ab_channel=Telusko)
 * [Spring Boot JPA Tutorial | 2021 - AmigosCode](https://www.youtube.com/watch?v=8SGI_XS5OPw&ab_channel=Amigoscode)
 * [Is it possible to add JPA annotation to superclass instance variables?](https://stackoverflow.com/questions/2883033/is-it-possible-to-add-jpa-annotation-to-superclass-instance-variables)
 * [Inheritance Strategies with JPA and Hibernate – The Complete Guide](https://thorben-janssen.com/complete-guide-inheritance-strategies-jpa-hibernate/)
+* [JPA / Hibernate Composite Primary Key Example with Spring Boot](https://www.youtube.com/watch?v=FWCcKPokOTM&ab_channel=JavaGuides)
+* [Why does Spring Boot hibernate OneToMany mapping child returns null values?](https://stackoverflow.com/questions/59266950/why-does-spring-boot-hibernate-onetomany-mapping-child-returns-null-values)
 
 ### Plugin Development
 
@@ -39,3 +43,15 @@
 ### Time
 
 * [Army/Military Time](https://armytimeconverter.com/)
+
+### Full Spring Builds
+
+* [Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)](https://www.youtube.com/watch?v=DKlTBBuc32c&t=542s&ab_channel=freeCodeCamp.org)
+* [Building a Coronavirus tracker app with Spring Boot and Java - Java Brains Tutorial](https://www.youtube.com/watch?v=8hjNG9GZGnQ&t=12s&ab_channel=JavaBrains)
+* [Spring Boot Tutorial | Spring Boot Full Stack with React.js | Full Course | 2021](https://www.youtube.com/watch?v=i-hoSg8iRG0&ab_channel=Amigoscode)
+* [Spring Boot Full Stack with Angular | Full Course [2021] [NEW] - Employee Manager](https://www.youtube.com/watch?v=Gx4iBLKLVHk&ab_channel=Amigoscode)
+* [Java Tutorial - Complete User Login and Registration Backend + Email Verification](https://www.youtube.com/watch?v=QwQuro7ekvc&ab_channel=Amigoscode)
+* [Spring Boot Shopping Cart Tutorial with MySQL Database, Thymeleaf, Bootstrap and jQuery](https://www.youtube.com/watch?v=rFSxmKen6aQ&ab_channel=CodeJava)
+* [React & Spring Boot Expense Tracker Application (Part 1)](https://www.youtube.com/watch?v=avvrsnYFXIE&ab_channel=CodeEngine)
+* [React & Spring Boot Expense Tracker Application (Part 2)](https://www.youtube.com/watch?v=jCalDxGthoc&ab_channel=CodeEngine)
+

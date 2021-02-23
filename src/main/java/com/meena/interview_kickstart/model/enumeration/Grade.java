@@ -1,4 +1,4 @@
-package com.meena.interview_kickstart.repository.enumeration;
+package com.meena.interview_kickstart.model.enumeration;
 
 public enum Grade {
 
