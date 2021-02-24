@@ -54,4 +54,11 @@
 * [Spring Boot Shopping Cart Tutorial with MySQL Database, Thymeleaf, Bootstrap and jQuery](https://www.youtube.com/watch?v=rFSxmKen6aQ&ab_channel=CodeJava)
 * [React & Spring Boot Expense Tracker Application (Part 1)](https://www.youtube.com/watch?v=avvrsnYFXIE&ab_channel=CodeEngine)
 * [React & Spring Boot Expense Tracker Application (Part 2)](https://www.youtube.com/watch?v=jCalDxGthoc&ab_channel=CodeEngine)
+* [Introduction to Complete Application in Spring Boot (Step by Step Tutorial)s](https://www.youtube.com/watch?v=c4mv4N6i3Jc&list=PL9l1zUfnZkZkmDvzHCoLlc_nHBc7ZXiRO&ab_channel=KindsonTheTechPro)
+* [Microservice Using Spring Boot & Spring Cloud | 2 Hours Full Course | JavaTechie](https://www.youtube.com/watch?v=tljuDMmfJz8&t=1085s&ab_channel=JavaTechie)
+* [Microservices using SpringBoot | Full Example](https://www.youtube.com/watch?v=BnknNTN8icw&ab_channel=DailyCodeBuffer)
+* [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=827s&ab_channel=freeCodeCamp.org)
+* [SQL For Beginners Tutorial | Learn SQL in 4.2 Hours | 2021](https://www.youtube.com/watch?v=5hzZtqCNQKk&ab_channel=Amigoscode)
+
+so yesterday i was supporitng hte OM insufficient balance, App was testing it. I
 
