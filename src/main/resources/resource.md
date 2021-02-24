@@ -59,6 +59,5 @@
 * [Microservices using SpringBoot | Full Example](https://www.youtube.com/watch?v=BnknNTN8icw&ab_channel=DailyCodeBuffer)
 * [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=827s&ab_channel=freeCodeCamp.org)
 * [SQL For Beginners Tutorial | Learn SQL in 4.2 Hours | 2021](https://www.youtube.com/watch?v=5hzZtqCNQKk&ab_channel=Amigoscode)
-
-so yesterday i was supporitng hte OM insufficient balance, App was testing it. I
+* [APIs for Beginners - How to use an API (Full Course / Tutorial) - JavaScript/python](https://www.youtube.com/watch?v=GZvSYJDk-us&ab_channel=freeCodeCamp.org)
 
