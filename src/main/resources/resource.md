@@ -1,12 +1,21 @@
 ### Spring Boot
 
+* [Servlet and Jsp (Server Side Programming in Java)](https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb)
 * [Spring Boot Quick Start - Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
 * [Spring Boot Tutorials | Full Course - Telusko Learning](https://www.youtube.com/watch?v=35EQXmHKZYs&ab_channel=Telusko)
-    - [Why You Should Use Constructor Injection in Spring](https://reflectoring.io/constructor-injection/)
-    - [Why Default or No Argument Constructor is Important in Java Class](https://javarevisited.blogspot.com/2014/01/why-default-or-no-argument-constructor-java-class.html#axzz6nDJaF2P5)
-    - [Constructor Injection in Spring with Lombok](https://www.baeldung.com/spring-injection-lombok)
-    - [Understanding Constructor Injection](https://freecontent.manning.com/understanding-constructor-injection/)
+* [Why You Should Use Constructor Injection in Spring](https://reflectoring.io/constructor-injection/)
+* [Why Default or No Argument Constructor is Important in Java Class](https://javarevisited.blogspot.com/2014/01/why-default-or-no-argument-constructor-java-class.html#axzz6nDJaF2P5)
+* [Constructor Injection in Spring with Lombok](https://www.baeldung.com/spring-injection-lombok)
+* [Understanding Constructor Injection](https://freecontent.manning.com/understanding-constructor-injection/)
+* [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=827s&ab_channel=freeCodeCamp.org)
+* [SQL For Beginners Tutorial | Learn SQL in 4.2 Hours | 2021](https://www.youtube.com/watch?v=5hzZtqCNQKk&ab_channel=Amigoscode)
+* [APIs for Beginners - How to use an API (Full Course / Tutorial) - JavaScript/python](https://www.youtube.com/watch?v=GZvSYJDk-us&ab_channel=freeCodeCamp.org)
+* [Spring Boot Tutorial in Hindi - 89](https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q)
+    - Kind of related to what, i want to use in my people-management app
+* [Spring MVC Tutorial Step by Step [Hindi]](https://www.youtube.com/playlist?list=PL0zysOflRCelAb51IrexpUSeB0dpr9p6g)
+* [Spring Jdbc in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCel7gR5T2_6BhK0lefArS4hO)
+* [AWS Hosting Tutorial | Deploying Java Applications on Amazon EC2 in hindi](https://www.youtube.com/playlist?list=PL0zysOflRCek6D-kLRM48rhyvTEbc60nc)
 
 * Rest Webservice (Spring & Jersey) :
   [Rest API | Web Service Tutorial - Telusko Learning](https://www.youtube.com/watch?v=BZi44GOD8kY&ab_channel=Telusko)
@@ -15,6 +24,7 @@
 
 ### Spring JPA & Hibrenate
 
+* [JDBC(Java Database Connectivity)](https://www.youtube.com/playlist?list=PL0zysOflRCenjuvOwumYLG9TCsEQZrV2M)
 * [Spring Data JPA: What is it? And Why Should You Use It?](https://www.youtube.com/watch?v=x67yiTHxn00&ab_channel=ThorbenJanssen)
 * [Hibernate vs JDBC | Which one is Better? | Easy Explanation from Karpado.com](https://www.youtube.com/watch?v=RoEELoKdqnk&ab_channel=KarpadoOfficial)
 * [Hibernate Tutorial | Full Course - Teluscko Learning](https://www.youtube.com/watch?v=JR7-EdxDSf0&ab_channel=Telusko)
@@ -48,6 +58,7 @@
 
 ### Full Spring Builds
 
+* [E-Commerce Project using Java in HINDI](https://www.youtube.com/playlist?list=PL0zysOflRCekMr91amXBNwWku4PmeFaFD)
 * [Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)](https://www.youtube.com/watch?v=DKlTBBuc32c&t=542s&ab_channel=freeCodeCamp.org)
 * [Building a Coronavirus tracker app with Spring Boot and Java - Java Brains Tutorial](https://www.youtube.com/watch?v=8hjNG9GZGnQ&t=12s&ab_channel=JavaBrains)
 * [Spring Boot Tutorial | Spring Boot Full Stack with React.js | Full Course | 2021](https://www.youtube.com/watch?v=i-hoSg8iRG0&ab_channel=Amigoscode)
@@ -59,13 +70,7 @@
 * [Introduction to Complete Application in Spring Boot (Step by Step Tutorial)s](https://www.youtube.com/watch?v=c4mv4N6i3Jc&list=PL9l1zUfnZkZkmDvzHCoLlc_nHBc7ZXiRO&ab_channel=KindsonTheTechPro)
 * [Microservice Using Spring Boot & Spring Cloud | 2 Hours Full Course | JavaTechie](https://www.youtube.com/watch?v=tljuDMmfJz8&t=1085s&ab_channel=JavaTechie)
 * [Microservices using SpringBoot | Full Example](https://www.youtube.com/watch?v=BnknNTN8icw&ab_channel=DailyCodeBuffer)
-* [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=827s&ab_channel=freeCodeCamp.org)
-* [SQL For Beginners Tutorial | Learn SQL in 4.2 Hours | 2021](https://www.youtube.com/watch?v=5hzZtqCNQKk&ab_channel=Amigoscode)
-* [APIs for Beginners - How to use an API (Full Course / Tutorial) - JavaScript/python](https://www.youtube.com/watch?v=GZvSYJDk-us&ab_channel=freeCodeCamp.org)
-* [Spring Boot Tutorial in Hindi - 89](https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q)
-    - Kind of related to what, i want to use in my people-management app
 * [Spring Boot Project: Smart Contact Manager in HINDI - With Payment Integration](https://www.youtube.com/playlist?list=PL0zysOflRCelYeugqOJszoof1ruhLVdJc)
-* [Spring MVC Tutorial Step by Step [Hindi]](https://www.youtube.com/playlist?list=PL0zysOflRCelAb51IrexpUSeB0dpr9p6g)
 
 ### Network Engineering
 
@@ -75,16 +80,15 @@
 * [Computer Networking Complete Course - Beginner to Advanced](https://www.youtube.com/watch?v=QKfk7YFILws&ab_channel=Geek%27sLesson)
 * [What a Network Engineer does - Networking Fundamentals DETAIL EXPLANATION.](https://www.youtube.com/watch?v=y_CubB8lPJ0&ab_channel=NetworkEngineerAcademy)
 
-
 ### Cloud
+
 * [AWS Solution Architect & Sysops Tutorial for beginners in Hindi - AWS SAA C02](https://www.youtube.com/playlist?list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_)
 * [](https://www.youtube.com/playlist?list=PLBGx66SQNZ8b41znkb3Bc77avJM7kIIdY)
 
-
-
 ### Devops
-* [DevOps Tutorials in Hindi/Urdu | Complete Devops including **Linux**, Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10)
 
+* [DevOps Tutorials in Hindi/Urdu | Complete Devops including **
+  Linux**, Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10)
 
 ### Think like Software Engineer
 
