@@ -8,10 +8,12 @@ import javax.persistence.OneToMany;
 import javax.persistence.SequenceGenerator;
 import lombok.AccessLevel;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Data
 @Entity
+@NoArgsConstructor
 @SequenceGenerator(name = "student_sequence_generator", initialValue = 1)
 public class Student {
 
@@ -28,4 +30,9 @@ public class Student {
   @OneToMany(mappedBy = "student")
   private List<InterviewAppointment> interviewAppointments;
 
+  public Student(String name, String phone, String email) {
+    this.name = name;
+    this.phone = phone;
+    this.email = email;
+  }
 }

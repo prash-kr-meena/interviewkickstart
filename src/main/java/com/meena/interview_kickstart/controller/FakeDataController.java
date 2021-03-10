@@ -1,6 +1,7 @@
 package com.meena.interview_kickstart.controller;
 
 import com.meena.interview_kickstart.model.Interviewer;
+import com.meena.interview_kickstart.model.Student;
 import com.meena.interview_kickstart.service.FakeDataService;
 import java.util.stream.IntStream;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -24,6 +25,7 @@ public class FakeDataController {
   }
 
   private void createFakeData(int copy) {
+    Student student = fakeDataService.createStudent();
     Interviewer interviewer = fakeDataService.createInterviewer();
     fakeDataService.createScheduleForInterviewer(interviewer);
   }
