@@ -17,8 +17,8 @@ public class MainController {
   }
 
   @PostMapping("/")
-  private void insertSomeData() {
-    return;
+  private String insertSomeData() {
+    return "Hello";
   }
 
 }
