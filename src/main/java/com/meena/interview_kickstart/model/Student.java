@@ -1,10 +1,14 @@
 package com.meena.interview_kickstart.model;
 
+import java.util.List;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
 import javax.persistence.SequenceGenerator;
+import lombok.AccessLevel;
 import lombok.Data;
+import lombok.Setter;
 
 @Data
 @Entity
@@ -19,5 +23,9 @@ public class Student {
   private String phone;
   private String email;
   private Double previousScore; // score of last 2 interviews ?? Should we keep it here or not?
+
+  @Setter(AccessLevel.PRIVATE)
+  @OneToMany(mappedBy = "student")
+  private List<InterviewAppointment> interviewAppointments;
 
 }

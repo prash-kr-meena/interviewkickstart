@@ -33,6 +33,10 @@ public class Interviewer {
   @OneToMany(mappedBy = "interviewer")
   private List<Schedule> schedule;
 
+  @Setter(AccessLevel.PRIVATE)
+  @OneToMany(mappedBy = "interviewer")
+  private List<InterviewAppointment> interviewAppointments;
+
   public Interviewer(String name, Integer yoe) {
     this.name = name;
     this.yoe = yoe;
