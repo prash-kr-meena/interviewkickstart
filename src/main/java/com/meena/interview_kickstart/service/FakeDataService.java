@@ -22,6 +22,7 @@ public class FakeDataService {
 
   private static final int _1_HOUR_IN_MILLIS = 60 * 60 * 1000;
   private static final int _15_MINUTES_IN_MILLIS = 15 * 60 * 1000;
+  private static final int _45_MINUTES_IN_MILLIS = 45 * 60 * 1000;
 
   public FakeDataService(
       InterviewerRepository interviewerRepository,
@@ -47,7 +48,7 @@ public class FakeDataService {
     ZonedDateTime startDate = getZoneDateTimeForToday();
 
     long startTimeInMillis = startDate.toInstant().toEpochMilli();
-    long endTimeInMillis = startTimeInMillis + _1_HOUR_IN_MILLIS; // increasing 1 hour
+    long endTimeInMillis = startTimeInMillis + _45_MINUTES_IN_MILLIS; // increasing 45 minutes
 
     for (int i = 0; i < randomNoOfSchedule; i++) {
       Schedule schedule = new Schedule();
