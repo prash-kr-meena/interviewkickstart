@@ -18,6 +18,6 @@ public class Student {
   private String name;
   private String phone;
   private String email;
-  private Double previousScore; // score of last 2 interviews
+  private Double previousScore; // score of last 2 interviews ?? Should we keep it here or not?
 
 }

@@ -22,9 +22,7 @@ public class Schedule {
   private Long id;
 
   @ManyToOne
-  @Setter(AccessLevel.PRIVATE)
   private Interviewer interviewer;
-//  @JoinColumn(name="cart_id", nullable=false)
 
   private Timestamp start;
   private Timestamp end;

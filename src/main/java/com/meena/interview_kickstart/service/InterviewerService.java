@@ -29,6 +29,8 @@ public class InterviewerService {
 
   @Transactional
   public void insertSomeInterviewer() {
+    Interviewer mayank = new Interviewer("mayank", 6);
+    interviewerRepository.save(mayank);
 
     ZonedDateTime startDate = ZonedDateTime.of(
         LocalDate.of(2021, 2, 23),
@@ -42,18 +44,14 @@ public class InterviewerService {
     Schedule morningSchedule = new Schedule();
     morningSchedule.setStart(new Timestamp(startTimeInMillis));
     morningSchedule.setEnd(new Timestamp(endTimeInMillis));
+    morningSchedule.setInterviewer(mayank);
 
     Schedule eveningSchedule = new Schedule();
     eveningSchedule.setStart(new Timestamp(startTimeInMillis + 2000000));
     eveningSchedule.setEnd(new Timestamp(endTimeInMillis + 2000000 + 1000000));
+    eveningSchedule.setInterviewer(mayank);
 
     scheduleRepository.save(morningSchedule);
     scheduleRepository.save(eveningSchedule);
-
-    Interviewer mayank = new Interviewer("mayank", 6);
-    mayank.getSchedule().add(morningSchedule);
-    mayank.getSchedule().add(eveningSchedule);
-
-    interviewerRepository.save(mayank);
   }
 }
