@@ -3,11 +3,9 @@ package com.meena.interview_kickstart.model.enumeration;
 public enum Grade {
 
   POOR(0),
-  BAD(1),
-  OKAYISH(2),
-  DECENT(3),
-  GOOD(4),
-  AMAZING(5);
+  DECENT(1),
+  GOOD(2),
+  AMAZING(3);
 
   private final Integer gradeValue;
 
