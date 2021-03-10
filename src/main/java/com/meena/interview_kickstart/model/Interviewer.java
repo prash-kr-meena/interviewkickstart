@@ -1,5 +1,6 @@
 package com.meena.interview_kickstart.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.util.ArrayList;
 import java.util.List;
 import javax.persistence.CascadeType;
@@ -29,6 +30,7 @@ public class Interviewer {
   private String name;
   private Integer yoe; // Years of Experience
 
+  @JsonIgnore
   @Setter(AccessLevel.PRIVATE)
   @OneToMany(mappedBy = "interviewer")
   private List<Schedule> schedule;

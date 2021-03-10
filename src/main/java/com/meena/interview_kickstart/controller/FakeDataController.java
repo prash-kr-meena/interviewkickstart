@@ -4,6 +4,7 @@ import com.meena.interview_kickstart.model.Interviewer;
 import com.meena.interview_kickstart.model.Student;
 import com.meena.interview_kickstart.service.FakeDataService;
 import java.util.stream.IntStream;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,8 +21,9 @@ public class FakeDataController {
   }
 
   @GetMapping("/create/{copies}")
-  private void insertSomeData(@PathVariable("copies") Integer copiesOfData) {
+  private ResponseEntity<String> insertSomeData(@PathVariable("copies") Integer copiesOfData) {
     IntStream.range(0, copiesOfData).forEach(this::createFakeData);
+    return ResponseEntity.ok().body("CREATED FAKE DATA");
   }
 
   private void createFakeData(int copy) {

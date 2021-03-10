@@ -1,10 +1,10 @@
 package com.meena.interview_kickstart.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.sql.Timestamp;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.SequenceGenerator;
 import lombok.AccessLevel;
@@ -21,6 +21,7 @@ public class Schedule {
   @GeneratedValue(generator = "schedule_sequence_generator")
   private Long id;
 
+  @JsonIgnore
   @ManyToOne
   private Interviewer interviewer;
 
